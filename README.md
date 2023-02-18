@@ -1,2 +1,2 @@
-# Homebrew
+# Luriquen's Homebrews
 My humble homebrews
